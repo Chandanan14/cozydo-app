@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "CozyDo",
+    "slug": "cozydo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F5F3FF"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "androidStatusBar": {
+          "backgroundColor": "#F5F3FF",
+          "barStyle": "dark-content"
+        }
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.chan.dev.cozydo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b6aee50b-343f-4bbd-92f4-42afebd580b3"
+      }
+    }
+  }
+}
