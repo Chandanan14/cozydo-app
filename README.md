@@ -43,7 +43,7 @@ It combines **beautiful UI + smooth animations + helpful productivity tools**.
 👉 Latest version available in **Releases section**
 
 <p align="center">
-  <a href="https://github.com/your-username/cozydo/releases">
+  <a href="https://github.com/Chandanan14/cozydo-app/releases">
     <img src="https://img.shields.io/badge/Download-APK-purple?style=for-the-badge&logo=android" />
   </a>
 </p>
